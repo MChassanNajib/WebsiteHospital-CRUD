@@ -1,0 +1,5 @@
+- cp .env.example .env
+- composer install
+- npm install (opsional)
+- php artisan key:generate
+- php artisan serve
